@@ -25,7 +25,6 @@ def find_next_page_url(beautiful_soup):
 
 # get product data from beautiful soup
 def get_product_data(beautiful_soup):
-
     product_title = None
     product_title_tag = beautiful_soup.select('.product_title')
     if len(product_title_tag) > 0:
@@ -49,8 +48,8 @@ def get_product_data(beautiful_soup):
     return [product_title, product_description, product_price, product_img]
 
 
+# main function
 def main():
-
     # check url argument
     url = ''
     if len(sys.argv) > 1:

@@ -6,11 +6,13 @@ Output file is standard csv format with product title, description, price and on
 
 Installing
 -----
+``` 
 git clone https://github.com/Jakeroid/woo-extractor
 cd woo-extractor
 python -m venv ./venv
 source ./venv/bin/activate
 pip install -r requirements.txt
+```
 
 How to use?
 -----

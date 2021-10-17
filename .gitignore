@@ -1,3 +1,4 @@
 .idea
 venv
 output.csv
+.DS_Store

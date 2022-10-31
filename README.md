@@ -1,8 +1,10 @@
 Woo Extractor 
 =====
 
-This is a simple Python script for scrapping products from the WooCommerce stores.
-Output file is standard csv format with product title, description, price and one image.
+The simple Python script is for scrapping products from the WooCommerce stores.
+The output file is in standard CSV format with a product title, description, price, and image.
+
+If you need similar software, I could help. Contact me on [LinkedIn](https://www.linkedin.com/in/ivan-karabadzhak-42712113b/) or [Upwork](https://www.upwork.com/freelancers/ivank6).
 
 Installing
 -----
